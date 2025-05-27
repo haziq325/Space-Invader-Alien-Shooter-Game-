@@ -1,6 +1,5 @@
 # Space Invaders Clone - SFML C++ Game
 
-![Game Screenshot](assets/screenshots/gameplay.png) <!-- Add a screenshot if available -->
 
 A modern C++ implementation of the classic Space Invaders arcade game using the SFML library, featuring advanced OOP architecture, state management, and particle effects.
 
